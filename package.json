@@ -16,9 +16,12 @@
     "aws-sdk": "^2.596.0",
     "serverless-bundle": "^1.2.5",
     "serverless-dotenv-plugin": "^2.1.1",
-    "serverless-offline": "^5.3.3"
+    "serverless-offline": "^5.3.3",
+    "source-map-support": "^0.5.16"
   },
   "dependencies": {
+    "source-map-support": "^0.5.16",
+    "stripe": "^7.15.0",
     "uuid": "^3.3.3"
   }
 }
